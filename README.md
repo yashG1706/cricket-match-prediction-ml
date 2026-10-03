@@ -46,7 +46,14 @@ Classification Report
 Confusion Matrix
 Cross-Validation
 
-Model accuracy values should be updated here using the actual results from the final trained models.
+Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize IPL match statistics and compare the performance of machine learning models used for match prediction.
+
+* IPL match and team performance analysis
+* Season-wise runs and venue analysis
+* ML model accuracy comparison
+* Prediction features including runs left, balls left, wickets, CRR and RRR
 
 🛠️ Technologies Used
 Python
